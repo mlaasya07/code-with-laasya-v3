@@ -87,6 +87,7 @@ const VideoZone = () => {
       videos: [
         {
           id: 3,
+          youtubeID: "dQw4w9WgXcQ",
           title: "Building a Heartbreak Calculator",
           thumbnail: "https://images.unsplash.com/photo-1494548162494-384bba4ab999?w=800&h=450&fit=crop",
           duration: "5:20",
