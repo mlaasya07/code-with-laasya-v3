@@ -11,7 +11,7 @@ import ErrorLogs from "./pages/ErrorLogs";
 import VideoZone from "./pages/VideoZone";
 import IdeaJournal from "./pages/IdeaJournal";
 import TipsAndTricks from "./pages/TipsAndTricks";
-import NotFound from "./pages/NotFound";
+import NotFound from "./pages/404";
 
 const queryClient = new QueryClient();
 
